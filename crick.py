@@ -31,3 +31,8 @@ def tipe(s):
          print(i,end='')
          time.sleep(0.045)
 
+
+def 
+
+
+

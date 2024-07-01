@@ -32,7 +32,9 @@ def tipe(s):
          time.sleep(0.045)
 
 
-def 
+def batt(t,ft,st):
+    if t='f':
+        
 
 
 

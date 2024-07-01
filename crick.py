@@ -23,7 +23,7 @@ finn_wic=0
 sinn_wic=0
 nrr=1
 dd={0:0,1:0,2:0,3:0,4:0,5:0,6:0}
-
+inntype=''
 
 #defining function
 def tipe(s):
@@ -33,7 +33,11 @@ def tipe(s):
 
 
 def batt(t,ft,st):
-    if t='f':
+    if t=='f':
+        inntype='finn'
+    else:
+        inntype='sinn'
+    
         
 
 
